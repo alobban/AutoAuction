@@ -23,3 +23,13 @@
 /Users/alobban/projects/AutoAuction/src/AuctionService/obj/Debug/net7.0/AuctionService.pdb
 /Users/alobban/projects/AutoAuction/src/AuctionService/obj/Debug/net7.0/AuctionService.genruntimeconfig.cache
 /Users/alobban/projects/AutoAuction/src/AuctionService/obj/Debug/net7.0/ref/AuctionService.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/Humanizer.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/System.CodeDom.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.AssemblyReference.cache
+/Users/alobban/projects/AutoAuction/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.CopyComplete
