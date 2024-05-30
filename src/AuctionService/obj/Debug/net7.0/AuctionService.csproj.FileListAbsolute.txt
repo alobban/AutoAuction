@@ -33,3 +33,7 @@
 /Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/System.CodeDom.dll
 /Users/alobban/projects/AutoAuction/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.AssemblyReference.cache
 /Users/alobban/projects/AutoAuction/src/AuctionService/obj/Debug/net7.0/AuctionService.csproj.CopyComplete
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/AutoMapper.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/Npgsql.dll
+/Users/alobban/projects/AutoAuction/src/AuctionService/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
