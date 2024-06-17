@@ -1,7 +1,7 @@
 import React from 'react';
 import AuctionCard from './AuctionCard';
 import { Auction, PagedResult } from '@/types';
-import AppPagination from '@/components/AppPagination';
+import AppPagination from '@/app/components/AppPagination';
 
 async function getData(): Promise<PagedResult<Auction>> {
   const res = await fetch('http://localhost:6001/search?pageSize=4');
