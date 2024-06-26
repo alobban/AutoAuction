@@ -58,6 +58,7 @@ async function handleResponse(response: Response) {
   const data = text && JSON.parse(text);
 
   if (response.ok) {
+    console.log(data + ' or status text ' + response.statusText);
     return data || response.statusText;
   } else {
     const error = {
@@ -65,7 +66,7 @@ async function handleResponse(response: Response) {
       message: response.statusText,
     };
 
-    return error;
+    return { error };
   }
 }
 
