@@ -28,7 +28,7 @@ export default function AuctionForm() {
     try {
       const res = await createAuction(data);
       if (res.error) {
-        throw new Error(res.error);
+        throw res.error;
       }
       router.push(`/auctions/details/${res.id}`);
     } catch (error) {
